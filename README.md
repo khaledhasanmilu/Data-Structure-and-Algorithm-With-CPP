@@ -1,14 +1,9 @@
 <!-- Project Title -->
-<h1 align="center">DSA (Data Structures and Algorithms) Repository</h1>
+<h1 align="center">DSA (Data Structures and Algorithms) </h1>
 
 <!-- Project Description -->
 <p align="center">Welcome to my DSA repository! Explore implementations, notes, and solutions covering a wide range of Data Structures and Algorithms topics.</p>
 
-<!-- Badges -->
-<p align="center">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/yourusername/DSA-Repository?style=flat-square">
-  <img alt="GitHub" src="https://img.shields.io/github/license/yourusername/DSA-Repository?style=flat-square">
-</p>
 
 <!-- Table of Contents -->
 <h2 align="center">Table of Contents</h2>
