@@ -73,6 +73,6 @@
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/khaled-hasan-milu/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](kh.milu338@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:kh.milu338@gmail.com)
 
 <p align="center">Let's dive deep into DSA! Explore, learn, and conquer with this repository. Happy coding! 🚀</p>
