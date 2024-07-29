@@ -53,7 +53,7 @@
 - Backtracking
 - Hashing
 - Recursion
-- And more...
+- And more....
 
 <!-- Contributing -->
 <h2 align="center">Contributing 🤝</h2>
