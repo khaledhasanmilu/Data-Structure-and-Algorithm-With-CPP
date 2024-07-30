@@ -51,8 +51,8 @@
 - Divide and Conquer
 - Greedy Algorithms
 - Backtracking
-- Hashing
-- Recursion
+- Hashing.
+- Recursion.
 - And more....
 
 <!-- Contributing -->
