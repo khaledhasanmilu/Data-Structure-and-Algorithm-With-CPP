@@ -42,9 +42,9 @@
 
 <p align="center">Explore a variety of DSA topics, including but not limited to:</p>
 
-- Arrays
-- Linked Lists
-- Stacks and Queues
+- Arrays.
+- Linked Lists.
+- Stacks and Queues.
 - Trees and Graphs
 - Sorting and Searching Algorithms
 - Dynamic Programming
