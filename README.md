@@ -2,7 +2,7 @@
 <h1 align="center">DSA (Data Structures and Algorithms) Repository</h1>
 
 <!-- Project Description -->
-<p align="center">Welcome to my DSA repository! Explore implementations, notes, and solutions covering a wide range of Data Structures and Algorithms topics.</p>
+<p align="center">Welcome to my DSA repository! Explore implementations, notes, and solutions Covering a Wide range of Data Structures and Algorithms topics.</p>
 
 <!-- Table of Contents -->
 <h2 align="center">Table of Contents 📚</h2>
