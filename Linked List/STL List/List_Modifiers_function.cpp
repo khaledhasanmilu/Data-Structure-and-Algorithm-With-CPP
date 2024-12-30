@@ -19,4 +19,4 @@ for(int val:l){
   cout<<val<<endl;
 }
   return 0;
-}
+} 
