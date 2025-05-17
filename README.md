@@ -1,78 +1,105 @@
-<!-- Project Title -->
-<h1 align="center">DSA (Data Structures and Algorithms) Repository</h1>
+<!-- Title -->
+<h1 align="center">🧠 DSA (Data Structures and Algorithms) Repository</h1>
 
-<!-- Project Description -->
-<p align="center">Welcome to my DSA repository! Explore implementations, notes, and solutions Covering a Wide range of Data Structures and Algorithms topics.</p>
-
-<!-- Table of Contents -->
-<h2 align="center">Table of Contents 📚</h2>
-
-- [Introduction](#introduction)
-- [Folder Structure](#folder-structure)
-- [Topics Covered](#topics-covered)
-- [Contributing](#contributing)
-- [License](#license)
-
-<!-- Introduction -->
-<h2 align="center">Introduction 🌟</h2>
-
-<p align="center">This repository is your comprehensive guide to mastering Data Structures and Algorithms. It includes practical code implementations, problem-solving techniques, and theoretical explanations to strengthen your understanding.</p>
-
-<!-- Folder Structure -->
-<h2 align="center">Folder Structure 📁</h2>
-
-<p align="center">Organized into folders by topic, this repository ensures easy navigation and focused learning:</p>
-
-- **Arrays** 📊
-- **LinkedLists** 🔗
-- **Stacks** 📚
-- **Queues** 🧳
-- **Trees** 🌳
-- **Graphs** 📈
-- **Sorting** 🧹
-- **Searching** 🔍
-- **DynamicProgramming** 🧩
-- **DivideAndConquer** ⚔️
-- **Greedy** 💰
-- **Backtracking** 🔄
-- **Miscellaneous** 🎯
-
-<!-- Topics Covered -->
-<h2 align="center">Topics Covered 🚀</h2>
-
-<p align="center">Explore a variety of DSA topics, including but not limited to:</p>
-
-- Arrays.
-- Linked Lists.
-- Stacks and Queues.
-- Trees and Graphs
-- Sorting and Searching Algorithms
-- Dynamic Programming
-- Divide and Conquer
-- Greedy Algorithms
-- Backtracking
-- Hashing.
-- Recursion.
-- And more....
-
-<!-- Contributing -->
-<h2 align="center">Contributing 🤝</h2>
-
-<p align="center">Join the community! Contribute your solutions, improvements, or insights to enhance this repository:</p>
-
-1. **Fork the repository**
-2. **Create a new branch** (`git checkout -b feature-branch`)
-3. **Commit your changes** (`git commit -m 'Add some feature'`)
-4. **Push to the branch** (`git push origin feature-branch`)
-5. **Create a new Pull Request**
-
-<!-- License -->
-<h2 align="center">License 📜</h2>
-
-<p align="center">This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/khaledhasanmilu">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:kh.milu338@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://khaledhasanmilu.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-24292e?logo=netlify&logoColor=white" alt="Portfolio">
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=khaledhasanmilu.Data-Structure-and-Algorithm-With-CPP" alt="Visitors">
+</p>
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/khaled-hasan-milu/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:kh.milu338@gmail.com)
 
-<p align="center">Let's dive deep into DSA! Explore, learn, and conquer with this repository. Happy coding! 🚀</p>
+<p align="center">
+  🚀 Welcome to my **DSA (Data Structures and Algorithms)** repository!  
+  This repo is designed to help you become a problem-solving pro using C++.  
+  From beginner basics to advanced algorithmic strategies — everything is covered here.
+</p>
+
+---
+
+## 📚 Table of Contents
+
+- [🌟 Introduction](#-introduction)
+- [📁 Folder Structure](#-folder-structure)
+- [🚀 Topics Covered](#-topics-covered)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
+
+---
+
+## 🌟 Introduction
+
+This repository is your **comprehensive guide** to mastering Data Structures and Algorithms.  
+It includes:
+
+- ✅ Practical code implementations in C++
+- ✅ Common DSA problems with solutions
+- ✅ Theory + Practice for interviews and coding contests
+- ✅ Structured folders for easy navigation
+
+> Perfect for beginners, university students, and those preparing for coding interviews.
+
+---
+
+## 📁 Folder Structure
+
+All topics are organized into dedicated folders for focused learning:
+
+| Folder              | Description                      |
+|---------------------|----------------------------------|
+| 📊 `Arrays`          | One-dimensional & 2D problems    |
+| 🔗 `LinkedLists`     | Singly, Doubly, Circular         |
+| 📚 `Stacks`          | Stack using arrays and LL        |
+| 🧳 `Queues`          | Queue, Circular Queue, Deque     |
+| 🌳 `Trees`           | BST, Traversals, Binary Tree     |
+| 📈 `Graphs`          | BFS, DFS, MST, Dijkstra          |
+| 🧹 `Sorting`         | All sorting algorithms           |
+| 🔍 `Searching`       | Binary search, Linear search     |
+| 🧩 `DynamicProgramming` | Knapsack, LCS, Memoization  |
+| ⚔️ `DivideAndConquer`| Merge Sort, Quick Sort, etc.     |
+| 💰 `Greedy`          | Activity selection, Huffman      |
+| 🔄 `Backtracking`    | N-Queens, Sudoku Solver          |
+| 🎯 `Miscellaneous`   | Hashing, Sliding Window, etc.    |
+
+---
+
+## 🚀 Topics Covered
+
+> ✨ A wide range of algorithmic concepts to prepare you for interviews, contests, and more!
+
+- Arrays and Strings  
+- Linked Lists  
+- Stack and Queue  
+- Trees and Binary Search Trees  
+- Graphs and Traversal Algorithms  
+- Sorting and Searching Techniques  
+- Recursion and Backtracking  
+- Greedy Algorithms  
+- Dynamic Programming  
+- Divide and Conquer  
+- Hashing  
+- And much more...
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from everyone! 🌟  
+Want to share your solutions, add explanations, or improve code readability?
+
+### Follow these steps:
+
+```bash
+1. Fork the repository 🍴
+2. Create a new branch ➡️  git checkout -b feature/your-feature
+3. Make your changes ✨
+4. Commit changes ➡️  git commit -m "Add feature"
+5. Push to the branch ➡️  git push origin feature/your-feature
+6. Create a Pull Request 🚀
